@@ -19,17 +19,17 @@ class DataService {
 
   void columnCasa() {
     chaves = ["name", "sector", "price"];
-    colunas = ["Nome", "Setor 1", "Preço"];
+    colunas = ["Nome 1", "Setor 1", "Preço 1"];
   }
 
   void columnMesa() {
     chaves = ["name", "sector", "price"];
-    colunas = ["Nome", "Setor 2", "Preço"];
+    colunas = ["Nome 2", "Setor 2", "Preço 2"];
   }
 
   void columnBanho() {
     chaves = ["name", "sector", "price"];
-    colunas = ["Nome", "Setor 3", "Preço"];
+    colunas = ["Nome 3", "Setor 3", "Preço 3"];
   }
 
   void carregarCasa() {
